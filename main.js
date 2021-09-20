@@ -1,3 +1,3 @@
 function changecolor(){
-    document.getElementById("heading1").style.color="yellow"
+    document.getElementById("h1").style.color
 };
